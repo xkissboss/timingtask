@@ -1,0 +1,42 @@
+﻿@{ 
+    List<UserModel> userList = ViewBag.UserList;
+}
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <td>邮箱</td>
+                <td>名字</td>
+                <td>添加时间</td>
+                <td>操作</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (UserModel user in userList)
+            {
+                <tr>
+                    <td>@user.Email</td>
+                    <td>@user.Name</td>
+                    <td>@user.CreateTime.ToString("yyyy-MM-dd")</td>
+                    <td>
+                        @if (user.IsActive)
+                        {
+                            <button type="button" class="btn btn-info">启动</button>
+                        }
+                        else
+                        {
+                            <button type="button" class="btn btn-danger">禁用</button>
+                        }
+                        <a class="btn btn-success" href="/user/edit">修改</a>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+    <!-- Single button -->
+    <div class="btn-group">
+        <a class="btn btn-success" href="/user/create">添加</a>
+    </div>
+</div>

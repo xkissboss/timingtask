@@ -1,0 +1,9 @@
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskRabbitMQ\bin\Debug\netcoreapp2.0\TaskRabbitMQ.deps.json
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskRabbitMQ\bin\Debug\netcoreapp2.0\TaskRabbitMQ.dll
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskRabbitMQ\obj\Debug\netcoreapp2.0\TaskRabbitMQ.csproj.CoreCompileInputs.cache
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskRabbitMQ\obj\Debug\netcoreapp2.0\TaskRabbitMQ.AssemblyInfoInputs.cache
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskRabbitMQ\obj\Debug\netcoreapp2.0\TaskRabbitMQ.AssemblyInfo.cs
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskRabbitMQ\bin\Debug\netcoreapp2.0\TaskRabbitMQ.pdb
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskRabbitMQ\obj\Debug\netcoreapp2.0\TaskRabbitMQ.csprojResolveAssemblyReference.cache
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskRabbitMQ\obj\Debug\netcoreapp2.0\TaskRabbitMQ.dll
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskRabbitMQ\obj\Debug\netcoreapp2.0\TaskRabbitMQ.pdb

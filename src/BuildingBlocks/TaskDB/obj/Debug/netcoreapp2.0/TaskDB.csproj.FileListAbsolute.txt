@@ -1,0 +1,11 @@
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskDB\bin\Debug\netcoreapp2.0\TaskDB.deps.json
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskDB\bin\Debug\netcoreapp2.0\TaskDB.dll
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskDB\obj\Debug\netcoreapp2.0\TaskDB.csprojResolveAssemblyReference.cache
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskDB\obj\Debug\netcoreapp2.0\TaskDB.csproj.CoreCompileInputs.cache
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskDB\obj\Debug\netcoreapp2.0\TaskDB.AssemblyInfoInputs.cache
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskDB\obj\Debug\netcoreapp2.0\TaskDB.AssemblyInfo.cs
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskDB\bin\Debug\netcoreapp2.0\TaskDB.pdb
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskDB\bin\Debug\netcoreapp2.0\TaskUtility.dll
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskDB\bin\Debug\netcoreapp2.0\TaskUtility.pdb
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskDB\obj\Debug\netcoreapp2.0\TaskDB.dll
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskDB\obj\Debug\netcoreapp2.0\TaskDB.pdb

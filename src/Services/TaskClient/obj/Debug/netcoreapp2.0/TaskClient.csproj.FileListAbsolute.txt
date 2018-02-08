@@ -1,0 +1,16 @@
+D:\vswork\github\timingtask\src\Services\TaskClient\bin\Debug\netcoreapp2.0\TaskClient.deps.json
+D:\vswork\github\timingtask\src\Services\TaskClient\bin\Debug\netcoreapp2.0\TaskClient.runtimeconfig.json
+D:\vswork\github\timingtask\src\Services\TaskClient\bin\Debug\netcoreapp2.0\TaskClient.runtimeconfig.dev.json
+D:\vswork\github\timingtask\src\Services\TaskClient\bin\Debug\netcoreapp2.0\TaskClient.dll
+D:\vswork\github\timingtask\src\Services\TaskClient\bin\Debug\netcoreapp2.0\TaskClient.pdb
+D:\vswork\github\timingtask\src\Services\TaskClient\obj\Debug\netcoreapp2.0\TaskClient.csproj.CoreCompileInputs.cache
+D:\vswork\github\timingtask\src\Services\TaskClient\obj\Debug\netcoreapp2.0\TaskClient.AssemblyInfoInputs.cache
+D:\vswork\github\timingtask\src\Services\TaskClient\obj\Debug\netcoreapp2.0\TaskClient.AssemblyInfo.cs
+D:\vswork\github\timingtask\src\Services\TaskClient\obj\Debug\netcoreapp2.0\TaskClient.dll
+D:\vswork\github\timingtask\src\Services\TaskClient\obj\Debug\netcoreapp2.0\TaskClient.pdb
+D:\vswork\github\timingtask\src\Services\TaskClient\obj\Debug\netcoreapp2.0\TaskClient.csprojResolveAssemblyReference.cache
+D:\vswork\github\timingtask\src\Services\TaskClient\bin\Debug\netcoreapp2.0\appsettings.json
+D:\vswork\github\timingtask\src\Services\TaskClient\bin\Debug\netcoreapp2.0\TaskCache.dll
+D:\vswork\github\timingtask\src\Services\TaskClient\bin\Debug\netcoreapp2.0\TaskUtility.dll
+D:\vswork\github\timingtask\src\Services\TaskClient\bin\Debug\netcoreapp2.0\TaskCache.pdb
+D:\vswork\github\timingtask\src\Services\TaskClient\bin\Debug\netcoreapp2.0\TaskUtility.pdb

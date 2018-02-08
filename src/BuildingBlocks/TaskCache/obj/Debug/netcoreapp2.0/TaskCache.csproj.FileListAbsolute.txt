@@ -1,0 +1,8 @@
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskCache\bin\Debug\netcoreapp2.0\TaskCache.deps.json
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskCache\bin\Debug\netcoreapp2.0\TaskCache.dll
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskCache\obj\Debug\netcoreapp2.0\TaskCache.csproj.CoreCompileInputs.cache
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskCache\obj\Debug\netcoreapp2.0\TaskCache.AssemblyInfoInputs.cache
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskCache\obj\Debug\netcoreapp2.0\TaskCache.AssemblyInfo.cs
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskCache\bin\Debug\netcoreapp2.0\TaskCache.pdb
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskCache\obj\Debug\netcoreapp2.0\TaskCache.dll
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskCache\obj\Debug\netcoreapp2.0\TaskCache.pdb

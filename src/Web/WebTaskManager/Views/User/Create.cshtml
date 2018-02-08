@@ -1,0 +1,51 @@
+﻿<div id="user_create">
+    <div class="input-group input-group-lg">
+        <span class="input-group-addon" id="sizing-addon1">邮箱</span>
+        <input type="text" class="form-control" placeholder="email" aria-describedby="sizing-addon1" v-model="email">
+        <span class="input-group-addon" id="basic-addon2">@@henhaoji.com</span>
+    </div>
+    <br />
+    <div class="input-group input-group-lg">
+        <span class="input-group-addon" id="sizing-addon1">姓名</span>
+        <input type="text" class="form-control" placeholder="name" aria-describedby="sizing-addon1" v-model="name">
+    </div>
+    <br />
+    <button type="button" class="btn btn-primary" v-on:click="addUser">添加</button>
+
+    <div class="alert alert-warning alert-dismissible" role="alert" v-show="show" style="display:none;">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <strong>Warning!</strong> {{ message }}
+    </div>
+</div>
+
+<script>
+    var app = new Vue({
+        el: '#user_create',
+        data: {
+            email: '',
+            name: '',
+            show: false,
+            message: ''
+        },
+        methods: {
+            addUser: function () {
+                var that = this;
+
+                $.post('/user/create', {
+                    email: this.email, name: this.name
+                }, function (data) {
+
+                    if (data.code == 0) {
+                        windows.location.href = '/user/index'
+                    } else {
+                        console.log(this.email)
+                        console.log(this.show)
+                        that.message = data.message;
+                        that.show = true;
+                    }
+                })
+            }
+        }
+    })
+
+</script>

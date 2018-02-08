@@ -1,0 +1,17 @@
+D:\vswork\github\timingtask\src\Web\WebTaskManager\bin\Debug\netcoreapp2.0\WebTaskManager.deps.json
+D:\vswork\github\timingtask\src\Web\WebTaskManager\bin\Debug\netcoreapp2.0\WebTaskManager.runtimeconfig.json
+D:\vswork\github\timingtask\src\Web\WebTaskManager\bin\Debug\netcoreapp2.0\WebTaskManager.runtimeconfig.dev.json
+D:\vswork\github\timingtask\src\Web\WebTaskManager\bin\Debug\netcoreapp2.0\WebTaskManager.dll
+D:\vswork\github\timingtask\src\Web\WebTaskManager\bin\Debug\netcoreapp2.0\WebTaskManager.pdb
+D:\vswork\github\timingtask\src\Web\WebTaskManager\bin\Debug\netcoreapp2.0\TaskDB.dll
+D:\vswork\github\timingtask\src\Web\WebTaskManager\bin\Debug\netcoreapp2.0\TaskUtility.dll
+D:\vswork\github\timingtask\src\Web\WebTaskManager\bin\Debug\netcoreapp2.0\TaskDB.pdb
+D:\vswork\github\timingtask\src\Web\WebTaskManager\bin\Debug\netcoreapp2.0\TaskUtility.pdb
+D:\vswork\github\timingtask\src\Web\WebTaskManager\obj\Debug\netcoreapp2.0\WebTaskManager.csprojResolveAssemblyReference.cache
+D:\vswork\github\timingtask\src\Web\WebTaskManager\obj\Debug\netcoreapp2.0\WebTaskManager.csproj.CoreCompileInputs.cache
+D:\vswork\github\timingtask\src\Web\WebTaskManager\obj\Debug\netcoreapp2.0\WebTaskManager.AssemblyInfoInputs.cache
+D:\vswork\github\timingtask\src\Web\WebTaskManager\obj\Debug\netcoreapp2.0\WebTaskManager.AssemblyInfo.cs
+D:\vswork\github\timingtask\src\Web\WebTaskManager\obj\Debug\netcoreapp2.0\WebTaskManager.dll
+D:\vswork\github\timingtask\src\Web\WebTaskManager\obj\Debug\netcoreapp2.0\WebTaskManager.pdb
+D:\vswork\github\timingtask\src\Web\WebTaskManager\bin\Debug\netcoreapp2.0\TaskCache.dll
+D:\vswork\github\timingtask\src\Web\WebTaskManager\bin\Debug\netcoreapp2.0\TaskCache.pdb

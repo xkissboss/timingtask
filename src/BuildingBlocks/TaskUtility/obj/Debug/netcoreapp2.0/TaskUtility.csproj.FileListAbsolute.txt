@@ -1,0 +1,9 @@
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskUtility\bin\Debug\netcoreapp2.0\TaskUtility.deps.json
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskUtility\bin\Debug\netcoreapp2.0\TaskUtility.dll
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskUtility\bin\Debug\netcoreapp2.0\TaskUtility.pdb
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskUtility\obj\Debug\netcoreapp2.0\TaskUtility.csproj.CoreCompileInputs.cache
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskUtility\obj\Debug\netcoreapp2.0\TaskUtility.AssemblyInfoInputs.cache
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskUtility\obj\Debug\netcoreapp2.0\TaskUtility.AssemblyInfo.cs
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskUtility\obj\Debug\netcoreapp2.0\TaskUtility.dll
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskUtility\obj\Debug\netcoreapp2.0\TaskUtility.pdb
+D:\vswork\github\timingtask\src\BuildingBlocks\TaskUtility\obj\Debug\netcoreapp2.0\TaskUtility.csprojResolveAssemblyReference.cache
